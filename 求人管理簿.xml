@@ -3,7 +3,7 @@
   	<Item>
       <Sales.P_Recruiter>
 				<Recruiter>
-					<Recruiter.P_Name>氏名/名所</Recruiter.P_Name>
+					<Recruiter.P_Name>氏名/名称</Recruiter.P_Name>
 					<Recruiter.U_BD0048DB7ABE843ED936D49CB186EB>電話番号(取引先)</Recruiter.U_BD0048DB7ABE843ED936D49CB186EB>
 					<Recruiter.P_PkmAddress>住所</Recruiter.P_PkmAddress>
 				</Recruiter>	
