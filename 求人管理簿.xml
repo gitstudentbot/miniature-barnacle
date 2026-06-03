@@ -11,7 +11,7 @@
 
 			<Sales.P_Resume>
 				<Resume>
-					<resume.P_Name>氏名</resume.P_Name>
+					<Resume.P_Name>氏名</Resume.P_Name>
 					
 
 				</Resume>
@@ -19,6 +19,8 @@
 			
 			<Sales.P_Job>
 				<Job>
+					<Job.U_13224178F9259F11695E6E86BDE241>求人機関開始</Job.U_13224178F9259F11695E6E86BDE241>
+					<Job.U_357A3EFEBC41DBEB7CC3BAFEC669BB>求人期間終了</Job.U_357A3EFEBC41DBEB7CC3BAFEC669BB>
 					<Job.U_33C689376BEC4DDAF1E973C4CE97A1>スタッフ支給区分</Job.U_33C689376BEC4DDAF1E973C4CE97A1>
 					<Job.P_JobCategory>職種（求人）</Job.P_JobCategory>
 					<Job.P_EmploymentType>雇用形態</Job.P_EmploymentType>
